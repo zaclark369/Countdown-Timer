@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+* {
+    box-sizing: border-box; 
+}
+
+body {
+    background-image: url("./else-marie-de-leeuw-U1pF6SJ4fs8-unsplash.jpg");
+    background-size: cover;
+    background-position: center center;
+    min-height: 100vh;
+    font-family: "Montserrat", sans-serif;
+    margin: 0;
+}
